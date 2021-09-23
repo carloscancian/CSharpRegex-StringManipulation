@@ -1,0 +1,16 @@
+C:\Users\carlo\source\repos\ManipulandoString\bin\Debug\net5.0\ManipulandoString.exe
+C:\Users\carlo\source\repos\ManipulandoString\bin\Debug\net5.0\ManipulandoString.deps.json
+C:\Users\carlo\source\repos\ManipulandoString\bin\Debug\net5.0\ManipulandoString.runtimeconfig.json
+C:\Users\carlo\source\repos\ManipulandoString\bin\Debug\net5.0\ManipulandoString.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\ManipulandoString\bin\Debug\net5.0\ManipulandoString.dll
+C:\Users\carlo\source\repos\ManipulandoString\bin\Debug\net5.0\ref\ManipulandoString.dll
+C:\Users\carlo\source\repos\ManipulandoString\bin\Debug\net5.0\ManipulandoString.pdb
+C:\Users\carlo\source\repos\ManipulandoString\obj\Debug\net5.0\ManipulandoString.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\ManipulandoString\obj\Debug\net5.0\ManipulandoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\ManipulandoString\obj\Debug\net5.0\ManipulandoString.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\ManipulandoString\obj\Debug\net5.0\ManipulandoString.AssemblyInfo.cs
+C:\Users\carlo\source\repos\ManipulandoString\obj\Debug\net5.0\ManipulandoString.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\ManipulandoString\obj\Debug\net5.0\ManipulandoString.dll
+C:\Users\carlo\source\repos\ManipulandoString\obj\Debug\net5.0\ref\ManipulandoString.dll
+C:\Users\carlo\source\repos\ManipulandoString\obj\Debug\net5.0\ManipulandoString.pdb
+C:\Users\carlo\source\repos\ManipulandoString\obj\Debug\net5.0\ManipulandoString.genruntimeconfig.cache
